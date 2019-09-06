@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ---------------------------------------------- NAVBAR -------------------------------------------- */
+.navbar{
+    /* Chiều rộng */
+    width: 100%;
+    /* Chiều cao*/
+    height: 50px;
+    /* Màu nền */
+    background-color: #333;
+    /* Cố định navbar*/
+    position: fixed;
+    /* Tốc độ ẩn hiện của thanh menu khi thuộc tính top có thay đổi (scrollmenu.js)*/
+    transition: top 0.3s; 
+}
+
+.navbar a{
+    /* Dồn item qua trái */
+    float: left;
+    /* Màu chữ */
+    color: white;
+    /* Khoảng cách trong */ 
+    padding: 15px;
+    /* Cỡ chữ*/
+    font-size: 18px;
+}
+
+.navbar a:hover{
+    color: lightgray;
+    text-shadow: 1px 1px 1px lightgray;
+}
+
+/* ---------------------------------------------- TEXT -------------------------------------------- */
+.text-decoration{
+    text-decoration: none;
+}

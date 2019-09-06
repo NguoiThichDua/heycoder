@@ -7,6 +7,7 @@
     <title>Document</title>
 
     <!-- CSS -->
+    <link rel="stylesheet" href="public/css/style.css">
    
 </head>
 <body>
@@ -16,5 +17,6 @@
     <!-- END NAV -->
 
     <!-- SCRIPTS -->
+    <script src="public/js/scrollmenu.js"></script>
 </body>
 </html>
