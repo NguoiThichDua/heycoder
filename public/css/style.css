@@ -10,7 +10,7 @@
     /* Chiều cao*/
     height: 50px;
     /* Màu nền */
-    background-color: #333;
+    background-color:#333;
     /* Cố định navbar*/
     position: fixed;
     /* Tốc độ ẩn hiện của thanh menu khi thuộc tính top có thay đổi (scrollmenu.js)*/

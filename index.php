@@ -16,6 +16,8 @@
         <?php include "view/include/navbar.php" ?>
     <!-- END NAV -->
 
+    
+
     <!-- SCRIPTS -->
     <script src="public/js/scrollmenu.js"></script>
 </body>
