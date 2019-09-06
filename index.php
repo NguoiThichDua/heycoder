@@ -15,6 +15,7 @@
         <?php include "view/include/navbar.php" ?>
     <!-- END NAV -->
 
+
     <!-- SCRIPTS -->
 </body>
 </html>
