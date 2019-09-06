@@ -15,6 +15,8 @@
         <?php include "view/include/navbar.php" ?>
     <!-- END NAV -->
 
+
+Nam
     <!-- SCRIPTS -->
     
 </body>
