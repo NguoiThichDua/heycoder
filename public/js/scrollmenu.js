@@ -1,10 +1,10 @@
 // lấy vị trí Y ban đầu
-var YBanDau = window.pageYOffset;
+var YBanDau = window.pageYOffset; 
 
 // scroll
 window.onscroll = function() {
     // lấy vị trí hiện tại khi scroll
-    var YHienTai = window.pageYOffset;
+    var YHienTai = window.pageYOffset; 
     
     if (YBanDau > YHienTai) {
         // scroll lên (hiện menu)
