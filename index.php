@@ -14,7 +14,6 @@
     <!-- NAV -->
         <?php include "view/include/navbar.php" ?>
     <!-- END NAV -->
-    <div class="container">Phương</div>
 
     <!-- SCRIPTS -->
 </body>
