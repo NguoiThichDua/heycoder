@@ -1,6 +1,10 @@
 *{
     margin: 0;
     padding: 0;
+    
+}
+body{
+    background-color: #e9ebee;
 }
 
 /* ---------------------------------------------- NAVBAR -------------------------------------------- */
@@ -27,6 +31,12 @@
     /* Cỡ chữ*/
     font-size: 18px;
 }
+.navbar span{
+    /* Khoảng cách trong */ 
+    float: left;
+}
+
+
 
 .navbar a:hover{
     color: lightgray;
