@@ -6,15 +6,16 @@
                 <h3>Thông tin tài khoản: </h3>
                 <div class="form-group">
                     <label for="exampleInputEmail1">Email: </label>
-                    <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Email">
+                    <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Email"required pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$" title="Email không hợp lệ.">
                 </div>
                 <div class="form-group">
                     <label for="exampleInputPassword1">Mật khẩu: </label>
-                    <input type="password" class="form-control" placeholder="Mật khẩu">
+                    <input type="password" class="form-control" placeholder="Mật khẩu" required pattern="[a-z]{8,15}"title="Tối thiểu 8 và tối đa 15 kí tự và viết thường toàn bộ.">
                 </div>
                 <div class="form-group">
                     <label for="exampleInputPassword1">Nhập lại mật khẩu: </label>
                     <input type="password" class="form-control" placeholder="Mật khẩu nhập lại">
+                    
                 </div>
             </div>
 
