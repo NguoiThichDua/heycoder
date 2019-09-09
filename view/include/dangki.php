@@ -1,5 +1,10 @@
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-12">
+        <div class="d-flex justify-content-center">
+            <h1>Đăng Kí Tài Khoản</h1>
+        </div>
+    </div>
+    <div class="col-md-7 mt-3">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -8,13 +13,13 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="public/img/slidedangki/AI.png" class="d-block w-100 rounded-lg" alt="..." height="400px">
+                    <img src="public/img/slidedangki/AI.png" class="d-block w-100 rounded-lg" alt="..." height="390px">
                 </div>
                 <div class="carousel-item">
-                    <img src="public/img/slidedangki/bug.png" class="d-block w-100 rounded-lg" alt="..." height="400px">
+                    <img src="public/img/slidedangki/bug.png" class="d-block w-100 rounded-lg" alt="..." height="390px">
                 </div>
                 <div class="carousel-item">
-                    <img src="public/img/slidedangki/slidedangki_1.png" class="d-block w-100 rounded-lg" alt="..." height="400px">
+                    <img src="public/img/slidedangki/slidedangki_1.png" class="d-block w-100 rounded-lg" alt="..." height="390px">
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -28,9 +33,8 @@
         </div>
     </div>    
 
-    <div class="col-md-6">
+    <div class="col-md-5 mt-3">
         <form action="" method="POST">
-            <h1>Đăng Kí Tài Khoản</h1>
             <div class="card card-body p-3">
                 <h3>Thông tin tài khoản: </h3>
                 <div class="form-group">

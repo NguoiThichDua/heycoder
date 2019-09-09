@@ -20,7 +20,7 @@
 
     <div class="col-md-12">
         <nav class="navbar navbar-expand-lg navbar-light bg-primary">
-            <img src="public/img/logo.png" alt="" width="50px" height="30px">
+            <img src="public/img/logo/logo.png" alt="" width="50px" height="30px">
             <button class="navbar-toggler btn-light" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
