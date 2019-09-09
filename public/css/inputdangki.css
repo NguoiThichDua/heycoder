@@ -1,0 +1,13 @@
+
+div input{
+    position: relative;
+    /* Cách hiển thị thuộc tính tràng ra ngoài | trong trường hợp này dùng để ẩn các thẻ span */
+    overflow: hidden;
+}
+
+div input:hover{
+    color: #fff;
+    box-shadow:  0 0 10px #2196f3,0 0 40px #2196f3;
+}
+
+

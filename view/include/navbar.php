@@ -1,9 +1,9 @@
 <div class="row">
 
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-5 d-flex align-items-center">
         <marquee behavior="" direction="" scrollamount="" class="text-danger">Chào mừng bạn đã đến với Hey Coder...!</marquee>
     </div>
-    <div class="col-md-6 mt-3 d-flex justify-content-center">
+    <div class="col-md-7 mt-3 d-flex justify-content-center">
         <form action="" method="POST" class="d-flex flex-row">
             <div class="form-group ml-3">
                 <input type="email" class="form-control" aria-describedby="emailHelp" placeholder="Email">

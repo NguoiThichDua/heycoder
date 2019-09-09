@@ -7,8 +7,11 @@
     <title>Document</title>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="public/css/style.css">
+   
     <link rel="stylesheet" href="config/node_modules/bootstrap/dist/css/bootstrap.css">
+    
+    <link rel="stylesheet" href="public/css/style.css">
+    <link rel="stylesheet" href="public/css/inputdangki.css">
    
 </head>
 <body>
