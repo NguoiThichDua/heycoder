@@ -34,17 +34,17 @@
             <div class="card card-body p-3">
                 <h3>Thông tin tài khoản: </h3>
                 <div class="form-group">
-                    <label for="exampleInputEmail1"><u>Email:</u></label>
+                    <label for="exampleInputEmail1">Email: <span style="color:red">(*)</span> </label>
                     <input type="email" class="form-control rounded-lg" aria-describedby="emailHelp" placeholder="Email"required pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$" title="Email không hợp lệ.">
                     <small class="d-flex justify-content-end">Kiểm tra tài khoản (script)</small>
                 </div>
                 <div class="form-group">
-                    <label for="exampleInputPassword1"><u>Mật khẩu: </u></label>
+                    <label for="exampleInputPassword1">Mật khẩu: <span style="color:red">(*)</span></label>
                     <input type="password" class="form-control rounded-lg" placeholder="Mật khẩu" required pattern="[a-z]{8,15}"title="Tối thiểu 8 và tối đa 15 kí tự và viết thường toàn bộ.">
                     <small class="d-flex justify-content-end">Kiểm tra mật khẩu (script)</small>
                 </div>
                 <div class="form-group">
-                    <label for="exampleInputPassword1"><u>Nhập lại mật khẩu: </u></label>
+                    <label for="exampleInputPassword1">Nhập lại mật khẩu: <span style="color:red">(*)</span></label>
                     <input type="password" class="form-control rounded-lg" placeholder="Mật khẩu nhập lại">
                     <small class="d-flex justify-content-end">Kiểm tra mật khẩu (script)</small>
                 </div>
@@ -53,12 +53,12 @@
             <div class="card card-body p-3 mt-3">
                 <h3>Thông tin cá nhân: </h3>
                 <div class="form-group">
-                    <label for="exampleInputPassword1"><u>Họ tên: </u></label>
+                    <label for="exampleInputPassword1">Họ tên: <span style="color:red">(*)</span></label>
                     <input type="password" class="form-control rounded-lg" placeholder="Họ tên">
                     <small class="d-flex justify-content-end">Kiểm tra họ tên (script)</small>
                 </div>
                 <div class="form-group">
-                    <label for="exampleInputPassword1"><u>Giới tính: </u></label>
+                    <label for="exampleInputPassword1">Giới tính: <span style="color:red">(*)</span></label>
 
                     <div class="form-check">
                         <input class="form-check-input rounded-lg" type="radio" name="gioitinh" value="1" checked>
@@ -75,7 +75,7 @@
                     </div>
                 </div>
                 <div class="form-group">
-                    <label for="exampleInputPassword1"><u>Ngày sinh: </u></label>
+                    <label for="exampleInputPassword1">Ngày sinh: <span style="color:red">(*)</span></label>
                     <input type="date" class="form-control rounded-lg" placeholder="Mật khẩu nhập lại">
                 </div>
                 <div class="form-group">
